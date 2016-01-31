@@ -89,6 +89,9 @@ Batch is a push notification platform built around predictive analytics and smar
 Catapush is a simple, reliable and scalable delivery API for transactional push notifications for applications. Ideal for sending data-driven transactional notifications including targeted e-commerce and personalized one-to-one messages.
 Get delivery confirmation with real time status for each message sent and build intelligent messaging logic in your real time applications.
 
+- **[CleverTap](https://clevertap.com/)**
+CleverTap lets you do app analytics at incredible speeds, and engage with your users via push notifications, in-app messages, emails or web notifications. You can use it to personalize all your interactions with users, across all channels. It does automatic uninstall tracking - with an ability to reach out to the users who've uninstalled the app for product feedback. Parse users can migrate to CleverTap in two simple steps with zero downtime.
+
 - **[Netmera](http://www.netmera.com)**
 Netmera is a Mobile Application Engagement Platform. We offer a series of development tools and app communication features to help your mobile business ignite and soar. Our platform will increase your mobile engagement with SMART campaigns and EASY data analysis features.
 
